@@ -46,7 +46,7 @@
   <paragraphs xml:id="description">
     <title>Course Description</title>
     <p>
-      Enter the catalog description of the course here.
+     An introduction to ordinary differential equations. Topics include methods of solving first-order ordinary differential equations, basic theory of solving n-th order linear equations, solving linear systems of first order equations, and Laplace transforms. Other topics may include numerical methods, infinite series methods, and qualitative analysis of differential equations. Applications will be emphasized.   Prerequisite:  MATH 222 (minimum grade of C-).
     </p>
   </paragraphs>
 
@@ -60,18 +60,16 @@
     <p>
       Optional Textbook: Differential Equations, A Toolbox for Modelling the World, Kurt Bryant
     </p>
-    <p>
-      Other required software, suggested readings, course packs, et. should be included here.
-    </p>
+   
   </paragraphs>
 
   <paragraphs xml:id="office-hours">
-    <title>Student Office Hours</title>
+    <title> Office Hours</title>
     <p>
     <ul>
       <li>
         <p>
-          <em>Laura Scull's Office Hours:</em>
+          <em>Laura Scull's Office Hours:</em> tba
         </p>
       </li>
      
@@ -94,10 +92,4 @@
     </p>
   </paragraphs>
 
-  <paragraphs xml:id="tech">
-    <title>Technology and Software Requirements</title>
-    <p>
-      You will need to be able to access Canvas and Webwork (online homework system) as submit assignments online. Internet access and a scanning device are required. Calculators will not be used on exams, but will frequently be useful for homework and in class.
-    </p>
-  </paragraphs>
 </section>
