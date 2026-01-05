@@ -5,12 +5,12 @@
       <dl>
         <li><title>Course Title</title>
           <p>
-            Course Title
+            Differential Equations
           </p>
         </li>
         <li><title>Course Number</title>
           <p>
-            MATH XXX
+            MATH 327
           </p>
         </li>
         <li><title>Credits</title>
@@ -22,31 +22,22 @@
         <!--e.g.-->
         <ul>
         <li>  
-          <em>Section 1 Time and Room(s):</em> 8:00-8:55am, MWF Noble 110, Th Noble 160
+          <em>Section 1 Time and Room(s):</em> 8:00-8:55am, MWF Jones 109
         </li>
         <li>
-            <em>Section 2 Time and Room(s):</em> 10:10-11:05am, MWF Noble 110, Th Berndt 340
+            <em>Section 2 Time and Room(s):</em> 12:20-1:15, MWF Ebh 034
         </li>
-        <li>
-            <em>Section 3 Time and Room(s):</em> 11:25am-12:20pm, MWF Noble 110, Th Berndt 340
-        </li>
-        <li>
-            <em>Section 4 Time and Room(s):</em> 2:30-3:25pm, MWF Noble 110, Th Berndt 340
-        </li>
+        
       </ul>
     </li>
         <li><title>Instructors</title>
           <ul>
             <li>
               <p>
-                <em>Section 1 - </em> Eddie Math (<url href="mailto:math_e@fortlewis.edu">math_e@fortlewis.edu</url>)
+                 Laura Scull(<url href="mailto:scull_l@fortlewis.edu">scull_l@fortlewis.edu</url>)
               </p>
             </li>
-            <li>
-              <p>
-                <em>Section 2 - </em> Emilia Numbers (<url href="mailto:enumbers@fortlewis.edu">enumbers@fortlewis.edu</url>)
-              </p>
-            </li>
+          
           </ul>        
         </li>
       </dl>
@@ -80,14 +71,10 @@
     <ul>
       <li>
         <p>
-          <em>Eddie Math's Office Hours:</em>
+          <em>Laura Scull's Office Hours:</em>
         </p>
       </li>
-      <li>
-        <p>
-          <em>Emilia Numbers' Office Hours:</em>
-        </p>
-      </li>
+     
     </ul>
   </p>
   </paragraphs>
@@ -95,7 +82,7 @@
   <paragraphs xml:id="feedback">
     <title>Feedback and Communication</title>
     <p>
-      Communication of all course information will occur via Canvas as well as in class. Most assignments will be submitted and graded online in Canvas or Webwork.
+      Communication of all course information will occur via Canvas or in class. Most assignments will be submitted and graded online in Canvas or Webwork.
     </p>
   </paragraphs>
 
