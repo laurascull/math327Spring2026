@@ -8,7 +8,7 @@
   <article xml:id="syllabus">
     <!--Enter appropriate course title-->
     <title>Differential Equations</title>
-    <subtitle>Math XXX - Spring/Summer/Fall 20XX</subtitle>
+    <subtitle>Math 327 - Spring 2026</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
