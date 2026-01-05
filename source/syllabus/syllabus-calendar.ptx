@@ -13,7 +13,35 @@
       <row>
             <cell>Week 2</cell> <cell>Direction Fields and Bifurcations</cell>
         </row>
-      
+       <row>
+            <cell>Week 3</cell> <cell> Linearity and Tank Mixing </cell>
+        </row>
+        <row>
+            <cell>Week 4 </cell> <cell> Integrating Factor, Euler's Method  </cell>
+        </row><row>
+            <cell>Week 5</cell> <cell> Introduction to Systems,  Exam 1  </cell>
+        </row><row>
+            <cell>Week 6</cell> <cell> Eigenvalues (real) and Phase Plane </cell>
+        </row><row>
+            <cell>Week 7</cell> <cell> More Eigenvalues:  Complex and Repeated  </cell>
+        </row><row>
+            <cell>Week 8</cell> <cell> Non-Homogeneous Systems  </cell>
+        </row><row>
+            <cell>Week 9</cell> <cell> Second Order Equations </cell>
+        </row><row>
+             <cell>Break Week </cell> <cell> No Class </cell>
+        </row><row>
+            <cell>Week 10</cell> <cell> Non-Homogeneous Second Order </cell>
+        </row><row>
+            
+            <cell>Week 11</cell> <cell> Introduction to LaPlace Transforms, Exam 2 </cell>
+        </row><row>
+            <cell>Week 12</cell> <cell> LaPlace Transforms and Discontinuous Forcing </cell>
+        </row><row>
+            <cell>Week 13</cell> <cell> Impulse Functions  </cell>
+        </row><row>
+            <cell>Week 14</cell> <cell> Convolution </cell>
+        </row>
     </tabular>
     </p>
 

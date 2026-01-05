@@ -9,16 +9,16 @@
         <cell>Assignment Category</cell> <cell>Weight</cell>
       </row>
       <row>
-        <cell>Webwork (Online Homework System)</cell> <cell>25%</cell>
+        <cell>Webwork (Online Homework System)</cell> <cell>15%</cell>
       </row>
       <row>
-        <cell>Weekly Activities</cell> <cell>10%</cell>
+        <cell>Weekly Activities</cell> <cell>20%</cell>
       </row>
       <row>
-        <cell>Three Midterm Exams</cell> <cell>15% each</cell>
+        <cell>Two Midterm Exams</cell> <cell>20% each</cell>
       </row>
       <row>
-        <cell>Cumulative Final Exam</cell> <cell>20%</cell>
+        <cell>Cumulative Final Exam</cell> <cell>25%</cell>
       </row>
     </tabular>
     <p>
@@ -82,9 +82,7 @@
       <row>
         <cell>Wednesday</cell><cell>Friday</cell>
       </row>
-      <row>
-      <cell>Thursday</cell><cell>Monday</cell>
-      </row>
+    
       <row>
         <cell>Friday</cell><cell>Tuesday</cell>
       </row>
@@ -99,19 +97,19 @@
   <paragraphs xml:id="weekly-activities">
     <title>Weekly Activities</title>
     <p>
-      Each week, typically on Thursdays, class time will be spent on an activity (such as a worksheet) intended to bring together material we have learned in the last week. Group work will be encouraged, but each student must turn in their own assignment.
+      Each week, typically on Thursdays, class time will be spent on a modeling activity.   Group work will be encouraged, but each student must turn in their own assignment.
     </p>
   </paragraphs>
   <paragraphs xml:id="midterm-exams">
     <title>Midterm Exams</title>
     <p>
-      There will be three midterm exams given in class on 9/19, 10/17, and 11/4. The class day before exams will be reserved for review. 
+      There will be two midterm exams given in class on Friday, February 13 and Friday, April 3.  
     </p>
   </paragraphs>
   <paragraphs xml:id="final">
     <title>Cumulative Final Exam</title>
     <p>
-      Your cumulative final exam will be Wednesday, December 10, from 7:30-9:30am. The room will be announced prior to the final exam.
+      The final exam will on Monday, Arpil 28 from 12:00-2:00pm.   This exam will cover <term> everything </term> we have done in class. 
     </p>
   </paragraphs>
 </section>
