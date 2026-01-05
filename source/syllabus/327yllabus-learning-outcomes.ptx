@@ -1,0 +1,41 @@
+ <section xml:id="los"><title>Learning Outcomes</title>
+  <!--This version of the learning outcomes is for Math 121 and is GTPathways compliant.-->
+  <paragraphs xml:id="clos">
+    <title>Course Learning Outcomes</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+          Basic Concepts: students will learn the definition of differential equations and their solutions, and verify solutions to given differential equation or initial value problem. 
+          </p>
+        </li>
+        <li>
+          <p>
+         Solving First Order Differential Equations:  students will identify first order versus higher order, linear versus nonlinear, and homogeneous versus non-homogeneous differential equations, apply Existence and Uniqueness Theorem for first order linear initial value problems, and solve first order linear differential equations analytically using integrating factors or separation of variables.  Students will sketch and interpret slope fields and phase lines to construct solutions qualitatively.    Students will apply this to solving applied problems. 
+ 
+          </p>
+        </li>
+        <li>
+          <p>
+            Solving First Order Linear Systems:  students will apply matrix theory and Existence and Uniqueness Theorem  to first order linear systems, and rewrite higher order scalar equations as first order systems.
+Students will verify whether or not given vectors are solutions of a given system or initial value problem.
+Students will use the Wronskian to verify whether or not a solution set is a fundamental set of solutions, and  construct general solutions and solve initial value problems.
+Students will use the eigenvalue method to solve constant coefficient ho- mogeneous systems:
+  Students will use the method of undetermined coefficients to solve non-homogeneous second order linear equations.
+Students will apply this to model model unforced mechanical vibration, interpreting solutions graphically and categorizing solutions.  
+
+          </p>
+        </li>
+        <li>
+          <p>
+           Laplace Transforms:  
+ Students will compute Laplace transforms using the improper integral definition, use the Heaviside step function in proving and applying the first and second shift theorems, compute Laplace transforms using tables and analytic methods, and solve second order equations using this theory.  Students will apply convolutions to the study of the delta function and impulse response. Students demonstrate a conceptual understanding of the meaning of algebraic forms, and
+            recognize differences between algebraic expressions and equations.
+          </p>
+        </li>
+       
+      </ul>
+    </p>
+  </paragraphs>
+
+</section>
